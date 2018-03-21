@@ -1,0 +1,8 @@
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM160\People\obj\Debug\netstandard2.0\People.csprojResolveAssemblyReference.cache
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM160\People\obj\Debug\netstandard2.0\People.csproj.CoreCompileInputs.cache
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM160\People\obj\Debug\netstandard2.0\People.App.xaml.g.cs
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM160\People\obj\Debug\netstandard2.0\People.MainPage.xaml.g.cs
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM160\People\obj\Debug\netstandard2.0\People.People.People.UWP.App.xaml.g.cs
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM160\People\obj\Debug\netstandard2.0\People.People.People.UWP.MainPage.xaml.g.cs
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM160\People\obj\Debug\netstandard2.0\People.People.People.App.xaml.g.cs
+C:\Users\Ruben Santos\Desktop\XaMarin\XPCP\XAM160\People\obj\Debug\netstandard2.0\People.People.People.MainPage.xaml.g.cs
